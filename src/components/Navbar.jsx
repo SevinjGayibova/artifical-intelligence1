@@ -3,6 +3,7 @@ import './Navbar.css'
 import brendinLogosu from '../assets/images/logo.svg'
 import { AiOutlineBars } from "react-icons/ai";
 import { GiCrossedSwords} from "react-icons/gi";
+import Button from './Button';
 
 
 
@@ -33,7 +34,7 @@ if(kliklenenElement.classList.contains('cross-icon')) {
 }
   return (
 
-    <>   
+     <>
     <div className="overlay" ref={overlayDivininUnvaniRef}>
 
          <GiCrossedSwords className="cross-icon" onClick= {closeOverlayMenu}/>
@@ -75,7 +76,7 @@ if(kliklenenElement.classList.contains('cross-icon')) {
        
       
       </ul>
-      <button className="btn btn-primary">Sign in</button>
+      <Button butonunIcindekiDeyer="Sign In" klassAdi="btn btn-info"/>
     </div>
   </div>
 </nav>
