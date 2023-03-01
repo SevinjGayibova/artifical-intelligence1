@@ -1,0 +1,28 @@
+[
+    {
+        "title" : "lorem ispum 1",
+        "text" : "lorem ispum dolor sit amet 1",
+        "image" : "https://res.cloudinary.com/drirnrwvs/image/upload/v1677604194/pics/Group_412_kl8m3t.png"
+    },
+    {
+        "title" : "lorem ispum2",
+        "text" : "lorem ispum dolor sit amet 2",
+        "image" : "https://res.cloudinary.com/drirnrwvs/image/upload/v1677604194/pics/Group_412_kl8m3t.png"
+    },
+    {
+        "title" : "lorem ispum3",
+        "text" : "lorem ispum dolor sit amet 3",
+        "image" : "https://res.cloudinary.com/drirnrwvs/image/upload/v1677604194/pics/Group_412_kl8m3t.png"
+    },
+    {
+        "title" : "lorem ispum4",
+        "text" : "lorem ispum dolor sit amet 4",
+        "image" : "https://res.cloudinary.com/drirnrwvs/image/upload/v1677604194/pics/Group_412_kl8m3t.png"
+    },
+    {
+        "title" : "lorem ispum5",
+        "text" : "lorem ispum dolor sit amet 5",
+        "image" : "https://res.cloudinary.com/drirnrwvs/image/upload/v1677604194/pics/Group_412_kl8m3t.png"
+    }
+    
+]
